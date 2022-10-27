@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hola-Alba
 - 👀 I’m interested in Blockchain, Javascript, Python, cafesito, entrepreneurship, design, stock investing, learning English and 中文。
 - 🌱 I’m currently learning "Programing from scratch"
-- 💞️ I’m looking to collaborate on your project.
+- 💞️ I’m looking to collaborate in your project.
 - 📫 How to reach me https://www.linkedin.com/in/albaguzmanquevedo/
 
 <!---
