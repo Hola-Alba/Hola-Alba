@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, Javascript, Python, cafesito, entrepreneurship, design, stock investing, learning English and 中文。
 - 🌱 I’m currently learning "Programing from scratch"
 - 💞️ I’m looking to collaborate in your project.
-- 📫 How to reach me https://www.linkedin.com/in/albaguzmanquevedo/
+- 📫 How to reach me https://www.linkedin.com/in/hola-alba/
 
 <!---
 Hola-Alba/Hola-Alba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
